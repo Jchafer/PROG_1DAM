@@ -11,7 +11,6 @@ public class Aplicación {
 		ArrayList<Curso> listaCursos = new ArrayList<Curso>();
 		ArrayList<Alumno> alumnos = new ArrayList<Alumno>();
 		
-		String prueba="Prueba";
 		int opc=0;	
 		do {
 			menu1();
